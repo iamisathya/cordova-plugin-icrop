@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-icrop",
+  "version": "1.0.0",
+  "description": "Crop an image in a Cordova app",
+  "cordova": {
+    "id": "cordova-plugin-icrop",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isathyam/cordova-plugin-icrop"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "image",
+    "image manipulation",
+    "crop",
+	"ionic",
+	"image crop"
+  ],
+  "license": "MIT"
+}
